@@ -28,3 +28,15 @@ while True:
         break
 # Display end message
 print("Bye..Bye")
+
+
+{/* {teacher?.class_day +
+                                          "(" +
+                                          moment
+                                            .utc(teacher?.slot_time)
+                                            .local()
+                                            .format("hh:mm A") +
+                                          ")"} */}
+                                        {/* {console.log(
+                                          "IIIIIIIIIIIIII",
+                                                 )} */}
